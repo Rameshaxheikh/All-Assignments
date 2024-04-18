@@ -1,7 +1,7 @@
 {
-  "name": "acd1-simple-calculator",
-  "version": "1.0.2",
-  "description": "",
+  "name": "my44444todo-app",
+  "version": "1.0.0",
+  "description": " ",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -12,13 +12,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@types/chalk-animation": "^1.6.3",
     "@types/inquirer": "^9.0.7",
-    "@types/node": "^20.11.28"
+    "@types/node": "^20.12.7"
   },
   "dependencies": {
     "chalk": "^5.3.0",
-    "chalk-animation": "^2.0.3",
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.19"
   }
 }
